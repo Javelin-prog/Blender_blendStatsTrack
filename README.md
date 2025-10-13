@@ -16,10 +16,10 @@ This tool automatically monitors how long you spend working on each `.blend` fil
 
 ## Installation
 
-1. Download or save the `time_tracker.py` script.
+1. Download or save the `Blender_TimeTrackBlend.zip` script.
 2. Open Blender.
 3. Go to `Edit` → `Preferences` → `Add-ons` → click the drop-down arrow.
-4. Click `Install...` and select the `time_tracker.py` file.
+4. Click `Install...` and select the `Blender_TimeTrackBlend.zip` file.
 5. Enable the add-on by checking the box next to **Time Tracker**.
 
 ::: primary
